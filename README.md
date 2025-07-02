@@ -70,12 +70,17 @@ A Power BI dashboard created during Data Science Internship Task 2, analyzing Fa
 
 ---
 
-## Actionable Recommendations
-1. Allocate more budget to Females aged 23–29.
-2. Use high-performing ads (e.g. 1121683, 1121680) as creative templates.
-3. Pause or redesign low-ROI campaigns (e.g., Campaign 102).
-4. A/B test interest groups (especially Interest = 15) in younger demographics.
-5. Repurpose successful themes across multiple campaigns.
+## Written Insights & Recommendations
+
+A detailed analysis has been documented in:
+
+📄 [`final_recommendations.txt`](insights/final_recommendations.txt)
+
+It includes:
+- Audience performance breakdowns  
+- Ad-level insights  
+- ROI analysis  
+- Strategic recommendations to optimize future ad campaigns
 
 ---
 
