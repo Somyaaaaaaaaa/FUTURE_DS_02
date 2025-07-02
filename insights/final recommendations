@@ -1,0 +1,57 @@
+FACEBOOK ADS PERFORMANCE – INSIGHTS & RECOMMENDATIONS
+--------------------------------------------------------
+
+OVERALL FINDINGS
+
+• Campaigns have diverse CTR and ROI outcomes depending on age, gender, and ad creative.
+• Top performance consistently comes from females aged 23–29.
+• Several ads with low CPC also achieve high CTR, indicating cost-efficient success.
+• Certain campaigns have very high impressions but poor engagement (low CTR, low ROI).
+
+--------------------------------------------------------
+
+INSIGHTS
+
+1. Ad-Level Performance:
+- Ad ID 1121683 (Age 23) achieved a CTR of 25% — top performer.
+- Ad ID 1121680 had strong CTR with a CPC of ₹0.33 — extremely cost-efficient.
+- Ad ID 1121678 (Age 32) had surprisingly solid CTR, suggesting older audiences can work when targeted precisely.
+
+2. Audience Engagement Patterns:
+- Females aged 23–29 consistently produce highest CTRs.
+- Male performance trails after age 30; female performance remains stable into 32.
+- CTR declines sharply after age 34 for both genders.
+
+3. Campaign-Wise ROI:
+- Campaign 107 delivered the highest ROI.
+- Campaign 102 had poor ROI despite large spend — needs reevaluation.
+- CTR and CPC are clearly tied to ROI — focus on these to boost return.
+
+4. Outliers and Data Anomalies:
+- One ad reported CTR of 2990%, likely due to incorrect impression count — exclude from analysis.
+
+--------------------------------------------------------
+
+STRATEGIC RECOMMENDATIONS
+
+1. Refine Targeting:
+   - Focus on Females aged 23–29.
+   - Exclude or down-weight audiences 35+ unless strong past performance exists.
+
+2. Reuse High-CTR Creatives:
+   - Clone visual/copy format from Ad ID 1121683 and 1121680.
+   - Use as templates for other campaigns.
+
+3. Run Controlled A/B Tests:
+   - Test Interest groups 10 and 15 with high-performing age ranges.
+   - Isolate changes to identify what boosts performance.
+
+4. Pause Low-Performing Campaigns:
+   - Campaign 102 should be paused or redesigned.
+   - Reduce spend on campaigns with low ROI and high CPC.
+
+5. Expand Metrics:
+   - Track time-of-day, device/platform if possible in future iterations.
+   - Add revenue per conversion dynamically to improve ROI estimation.
+
+--------------------------------------------------------
